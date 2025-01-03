@@ -1,6 +1,6 @@
 package ini
 
-import "github.com/gookit/ini/v2/parser"
+import "github.com/osleg/ini/v2/parser"
 
 // Options for config
 type Options struct {

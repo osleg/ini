@@ -10,8 +10,8 @@ import (
 	"github.com/gookit/goutil/envutil"
 	"github.com/gookit/goutil/maputil"
 	"github.com/gookit/goutil/strutil"
-	"github.com/gookit/ini/v2/parser"
 	"github.com/mitchellh/mapstructure"
+	"github.com/osleg/ini/v2/parser"
 )
 
 /*************************************************************

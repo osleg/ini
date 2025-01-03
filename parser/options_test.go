@@ -5,7 +5,7 @@ import (
 
 	"github.com/gookit/goutil/dump"
 	"github.com/gookit/goutil/testutil/assert"
-	"github.com/gookit/ini/v2/parser"
+	"github.com/osleg/ini/v2/parser"
 )
 
 // User struct

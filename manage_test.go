@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gookit/goutil/testutil/assert"
-	"github.com/gookit/ini/v2"
+	"github.com/osleg/ini/v2"
 )
 
 func TestIni_Get(t *testing.T) {

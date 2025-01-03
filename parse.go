@@ -3,7 +3,7 @@ package ini
 import (
 	"strings"
 
-	"github.com/gookit/ini/v2/parser"
+	"github.com/osleg/ini/v2/parser"
 )
 
 // parse and load data
