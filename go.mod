@@ -1,4 +1,4 @@
-module github.com/gookit/ini/v2
+module github.com/osleg/ini/v2
 
 go 1.19
 
