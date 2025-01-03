@@ -157,6 +157,6 @@ func writeStringMap(buf *bytes.Buffer, strMap map[string]string) {
 
 	sort.Strings(sortedKeys)
 	for _, key := range sortedKeys {
-		buf.WriteString(key + " = " + strMap[key] + "\n")
+		buf.WriteString(key + "=" + strMap[key] + "\n")
 	}
 }
