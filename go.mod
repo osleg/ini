@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/gookit/goutil v0.6.18
+	github.com/gookit/ini/v2 v2.2.3
 	github.com/mitchellh/mapstructure v1.5.0
 )
 
